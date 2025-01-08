@@ -9,17 +9,20 @@ Deepen knowledge and practice of:
 - Git Commands: commit, push, merge, pull.
 - Pull Requests.
 - Use a Git Kanban board.
-- Apply patterns from tasks 1 and 2.
+- Apply patterns.
 - Create UMLs: Class diagrams.
 - Design a database data model.
 
 ## Contributors
 
-- [@EnricW](https://github.com/EnricW)
-- [@tonijimenez72](https://github.com/tonijimenez72)
+[@EnricW](https://github.com/EnricW)
+
+[@tonijimenez72](https://github.com/tonijimenez72)
 
 
 # Escape Room
+
+## Level 1
 
 We need to develop an app to manage a virtual Escape Room, where users can enjoy exciting adventures and solve challenging enigmas. At level 1, as MySQL persistence.
 
@@ -66,13 +69,3 @@ The application is expected to include at least the following features:
 - Notify users about important events in the Escape Room, such as adding new tracks, ending a room, etc.
     
 - Allow interested users to register to receive notifications when relevant events occur.
-
-## Objectives
-
-- Git Flow.
-- Git Commands: commit, push, merge, pull.
-- Pull Requests.
-- Use a Git Kanban board.
-- Apply patterns from tasks 1 and 2.
-- Create UMLs: Class diagrams.
-- Design a database data model.
