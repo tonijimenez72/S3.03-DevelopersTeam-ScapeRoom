@@ -17,6 +17,8 @@ Deepen knowledge and practice of:
 
 [@EnricW](https://github.com/EnricW)
 
+[@sierraandres-27](https://github.com/sierraandres-27)
+
 [@tonijimenez72](https://github.com/tonijimenez72)
 
 
